@@ -1,2 +1,7 @@
-.venv/
-.idea/
+venv/*
+.idea/*
+chroma_db/*
+data/*
+/logs/*
+*.env
+__pycache__/
