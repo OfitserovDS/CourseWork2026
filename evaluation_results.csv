@@ -1,0 +1,6 @@
+context_precision,context_recall,faithfulness,answer_relevancy,strategy
+0.8533333333333334,1.0,0.92,0.92,popatkus_recursive
+0.8066666666666668,1.0,0.98,0.98,popatkus_markdown_header
+0.7466666666666666,1.0,0.9,0.9,popatkus_parent_document
+0.86,1.0,0.98,0.98,popatkus_semantic
+0.7333333333333337,1.0,0.94,0.94,popatkus_legal_document

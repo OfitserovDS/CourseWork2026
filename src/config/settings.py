@@ -32,7 +32,7 @@ class Settings(BaseSettings):
 
     # Telegram Bot Configuration
     bot_token: str
-    collection_name: str = "popatkus_recursive"
+    collection_name: str = "popatkus_semantic"
 
     # Ollama Configuration
     ollama_base_url: str = "http://localhost:11434"
