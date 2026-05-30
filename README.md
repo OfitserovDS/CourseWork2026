@@ -48,7 +48,7 @@ source .venv/bin/activate
 
 # Установка зависимостей
 uv pip install -r requirements.txt
-
+```
 ## Этапы работы
 
 ### 1. Препроцессинг документа
